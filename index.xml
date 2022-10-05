@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<songlist>
+    <artist>
+        <name>The Beatles</name>
+        <songs>
+            <song>
+                <title>Yesterday</title>
+                <genre>baroque pop</genre>
+                <year>1965</year>
+            </song>
+            <song>
+                <title>Here Come The Sun</title>
+                <genre>folk-pop</genre>
+                <genre>pop-rock</genre>
+                <year>1969</year>
+            </song>
+            <song>
+                <title>Penny Lane</title>
+                <genre>progressive pop</genre>
+                <genre>baroque pop</genre>
+                <year>1967</year>
+            </song>
+            <song>
+                <title>Hey Jude</title>
+                <genre>RnB</genre>
+                <genre>pop rock</genre>
+                <year>1968</year>
+            </song>
+        </songs>
+    </artist>
+
+    <artist>
+        <name>Oasis</name>
+        <songs>
+            <song>
+                <title>Sittin Here in Silence (On My Own)</title>
+                <genre>Alternative/Indie</genre>
+                <year>2005</year>
+            </song>
+            <song>
+                <title>Let There Be Love</title>
+                <genre>Alternative/Indie</genre>
+                <year>2005</year>
+            </song>
+        </songs>
+    </artist>
+
+    <artist>
+    <name>Red Hot Chilli Peppers</name>
+    <songs>
+        <song>
+            <title>Under The Bridge</title>
+            <genre>Alternative/Indie</genre>
+            <year>1991</year>
+        </song>
+        <song>
+            <title>Californication</title>
+            <genre>Alternative/Indie</genre>
+            <year>1999</year>
+        </song>
+    </songs>
+    </artist>
+
+    <artist>
+    <name>Badfinger</name>
+    <songs>
+        <song>
+            <title>Baby Blue</title>
+            <genre>Rock</genre>
+            <year>1971</year>
+        </song>
+    </songs>
+    </artist>
+
+    <artist>
+    <name>Lou Reed</name>
+    <songs>
+        <song>
+            <title>Walk On The Wild Side</title>
+            <genre>Rock</genre>
+            <year>1972</year>
+        </song>
+        <song>
+            <title>Perfect Day</title>
+            <genre>baroque pop</genre>
+            <year>1972</year>
+        </song>
+    </songs>
+    </artist>
+</songlist>
